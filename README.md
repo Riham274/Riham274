@@ -13,14 +13,6 @@ I'm **Riham Ararawi** — a Front-End Developer who loves creating clean, fast, 
 
 ---
 
-## 🔭 Featured Projects
-- **🌍 AeroCanaan Explorer** — Travel and tourism website for Palestine.  
-   https://github.com/Riham274/Aero-Canaan
-- **🏥 MidCare Project** — Healthcare center management system.  
- https://github.com/Riham274/MidCareProject
-
----
-
 ## 📫 Contact Me
 - LinkedIn: [riham-ararawi](https://linkedin.com/in/riham-ararawi-1a99b6326)  
 - Email: riham.ararawi274@gmail.com
