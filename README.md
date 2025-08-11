@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi — I'm Riham 👋
 
-<!--
-**Riham274/Riham274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/Riham%20Ararawi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riham-ararawi-1a99b6326) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riham274)
 
-Here are some ideas to get you started:
+I'm **Riham Ararawi** — a Front-End Developer who loves creating clean, fast, and user-friendly web apps. I focus on usability, performance, and modern design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Quick Overview
+- 🎨 Front-End Developer specialized in UI/UX.
+- 🛠 Skilled in **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS**.
+- 📚 Always learning and exploring new technologies.
+
+---
+
+## 🔭 Featured Projects
+- **🌍 AeroCanaan Explorer** — Travel and tourism website for Palestine.  
+   https://github.com/Riham274/Aero-Canaan
+- **🏥 MidCare Project** — Healthcare center management system.  
+ https://github.com/Riham274/MidCareProject
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [riham-ararawi](https://linkedin.com/in/riham-ararawi-1a99b6326)  
+- Email: riham.ararawi274@gmail.com
