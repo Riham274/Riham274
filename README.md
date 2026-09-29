@@ -15,6 +15,7 @@ I'm a developer who cares about the details users actually feel: smooth interact
 
 - 🎨 Focused on **UI/UX**, usability, and performance
 - 📱 Building cross-platform mobile apps with **Flutter**
+- 🤖 Built **Little Yafa** and **DigiVote** fully with AI tools
 - 🌱 Always learning and exploring new technologies
 
 ---
@@ -24,6 +25,7 @@ I'm a developer who cares about the details users actually feel: smooth interact
 - **Web:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 - **Mobile & Backend:** Flutter, Dart, Firebase
 - **Tools:** Git, GitHub, Figma, VS Code
+- **AI Tools:** ChatGPT, Claude, GitHub Copilot
 
 ---
 
